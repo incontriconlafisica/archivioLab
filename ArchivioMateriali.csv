@@ -9,7 +9,7 @@ a0007,Metro pieghevole,Armadio 5,1,Meccanica,metr falegname strumento misura,Met
 a0008,Goniometro,Armadio 5,15,Meccanica,misura gradi angoli,Goniometro Armadio 5 misura gradi angoli,https://www.dl.dropboxusercontent.com/scl/fi/cluj5xo1301185oarpzmp/goniometro.jpeg?rlkey=y5brta0vy2vo369fxgnusy4vp&dl=0
 a0009,Morsetto nero,Armadio 1,17,Meccanica,morsa asta sbarra,Morsetto nero Armadio 1 morsa asta sbarra,https://www.dl.dropboxusercontent.com/scl/fi/s195f942hroblrheguxpb/morsettoNero.png?rlkey=e6m76k6fa9wr6sjfhjh01yal7&dl=0
 a0010,Massa 50 g,Armadio 1,56,Meccanica,massa peso pesi 50 g grammi,Massa 50 g Armadio 1 massa peso pesi 50 g grammi,https://www.dl.dropboxusercontent.com/scl/fi/gxu5cpzu4xwl1h2r646tz/masse50.jpeg?rlkey=0l9e9oztgd1h9wbwwt0gfm6ts&dl=0
-a0011,Massa 100 g,Armadio 1,10,Meccanica,massa peso pesi g 100 grammi,Massa 100 g Armadio 1 massa peso pesi g 100 grammi,https://www.dl.dropboxusercontent.com/scl/fi/3nte0qmyphzewmi6st4p4/telefono.jpg?rlkey=8r36fnsmg0vqs60dqr3kqmn7s&dl=0
+a0011,Massa 100 g,Armadio 1,10,Meccanica,massa peso pesi g 100 grammi,Massa 100 g Armadio 1 massa peso pesi g 100 grammi,https://www.dl.dropboxusercontent.com/scl/fi/kijjmj7qhmex50nhlt6pf/massa100.jpeg?rlkey=cji402yl9o4rfwjxj22y2qkkz&dl=0
 a0012,Morsetto con gancio,Armadio 1,8,Meccanica,morsa asta sbarra,Morsetto con gancio Armadio 1 morsa asta sbarra,https://www.dl.dropboxusercontent.com/scl/fi/kbc6fg1l4yd4vu4fj1yez/morsettoGancio.jpeg?rlkey=hjusehl7t2imvk165mjzn2w1q&dl=0
 a0013,Piano inclinato,Armadio 5,10,Meccanica,caduta piano Galileo,Piano inclinato Armadio 5 caduta piano Galileo,https://www.dl.dropboxusercontent.com/scl/fi/9jk3jl5w7qbsd0b61011x/pianon-inclinato.jpeg?rlkey=ii3dznytass20cj6fzlbd7l4e&dl=0
 a0014,Parallelepipedo di metallo,Armadio 1,9,Fluidostatica,massa peso Archimede,Parallelepipedo di metallo Armadio 1 massa peso Archimede,https://www.dl.dropboxusercontent.com/scl/fi/tngl0vaen6uu7g75lv65b/parallelepipedoMetallo.jpeg?rlkey=ldo7zutwb5txzgbmsfazp76dt&dl=0
@@ -35,18 +35,25 @@ a0033,Cilindro graduato plastica 100 mL,Armadio 2,10,Fluidostatica,archimede vas
 a0034,Vaso di troppopieno,Armadio 2,10,Fluidostatica,archimede troppo pieno beccuccio sforamento trabocco plastica,Vaso di troppopieno Armadio 2 archimede troppo pieno beccuccio sforamento trabocco plastica,https://www.dl.dropboxusercontent.com/scl/fi/dv2l5tplwb0iacz009il9/vasoTroppopieno.jpeg?rlkey=8x2xy73m42by0dib5qvswwt6f&dl=0
 a0035,Sostegno bilancia,Armadio 5,19,Meccanica,equilibrio bracci braccia due,Sostegno bilancia Armadio 5 equilibrio bracci braccia due,
 a0036,Piatto bilancia,Armadio 5,20,Meccanica,vaschetta equilibrio piatti bracci braccio leva due,Piatto bilancia Armadio 5 vaschetta equilibrio piatti bracci braccio leva due,
-a0037,Scatola pesetti bilancia,Armadio 5,10,Mecccanica,Masse piccole grammi massa,Scatola pesetti bilancia Armadio 5 Masse piccole grammi massa,https://www.dl.dropboxusercontent.com/scl/fi/yawrikw901jsqm3oq0t82/scatolaPesettiBilancia.jpeg?rlkey=48rnmgu1zlqv7pkzmy1gxe28v&dl=0
-a0038,"Dinamometro rosso 1,5 N",Armadio 5,10,Mecccanica,dinamometro plastica forza piccolo,"Dinamometro rosso 1,5 N Armadio 5 dinamometro plastica forza piccolo",https://www.dl.dropboxusercontent.com/scl/fi/jkjjdhm4p2e5l9q23ge86/dinamometroRosso.jpeg?rlkey=h033okdd0cxhoh1niql17c60z&dl=0
-a0039,Dinamometro verde 3 N,Armadio 5,10,Mecccanica,dinamometro plastica forza piccolo,Dinamometro verde 3 N Armadio 5 dinamometro plastica forza piccolo,https://www.dl.dropboxusercontent.com/scl/fi/wrxzifw26ph1t0guvlx1t/dinamometroVerde.jpeg?rlkey=pnq974jx2w5ib3gqtpust124j&dl=0
-a0040,Dinamometro grande verde 5N,Armadio 5,7,Mecccanica,dinamometro plastica forza grande,Dinamometro grande verde 5N Armadio 5 dinamometro plastica forza grande,
-a0041,Dinamometro grande marrone 10N,Armadio 5,11,Mecccanica,dinamometro plastica forza grande,Dinamometro grande marrone 10N Armadio 5 dinamometro plastica forza grande,
-a0042,Scala doppia,Armadio 5,10,Mecccanica,righello curva ,Scala doppia Armadio 5 righello curva ,https://www.dl.dropboxusercontent.com/scl/fi/tfqg8fmardf98n80mcbgm/scalaDoppia.jpeg?rlkey=h29j7wn2ezpbk58b3ao4jyd0m&dl=0
-a0043,Ponte per puleggia,Armadio 5,20,Mecccanica,carrucole leve macchina semplice ,Ponte per puleggia Armadio 5 carrucole leve macchina semplice ,https://www.dl.dropboxusercontent.com/scl/fi/xkcdzgatkn49eiyv3ceg2/pontePuleggia.jpeg?rlkey=ejcnn426s8uzvw97oa1lig2w1&dl=0
+a0037,Scatola pesetti bilancia,Armadio 5,10,Meccanica,Masse piccole grammi massa,Scatola pesetti bilancia Armadio 5 Masse piccole grammi massa,https://www.dl.dropboxusercontent.com/scl/fi/yawrikw901jsqm3oq0t82/scatolaPesettiBilancia.jpeg?rlkey=48rnmgu1zlqv7pkzmy1gxe28v&dl=0
+a0038,"Dinamometro rosso 1,5 N",Armadio 5,10,Meccanica,dinamometro plastica forza piccolo,"Dinamometro rosso 1,5 N Armadio 5 dinamometro plastica forza piccolo",https://www.dl.dropboxusercontent.com/scl/fi/jkjjdhm4p2e5l9q23ge86/dinamometroRosso.jpeg?rlkey=h033okdd0cxhoh1niql17c60z&dl=0
+a0039,Dinamometro verde 3 N,Armadio 5,10,Meccanica,dinamometro plastica forza piccolo,Dinamometro verde 3 N Armadio 5 dinamometro plastica forza piccolo,https://www.dl.dropboxusercontent.com/scl/fi/wrxzifw26ph1t0guvlx1t/dinamometroVerde.jpeg?rlkey=pnq974jx2w5ib3gqtpust124j&dl=0
+a0040,Dinamometro grande verde 5N,Armadio 5,7,Meccanica,dinamometro plastica forza grande,Dinamometro grande verde 5N Armadio 5 dinamometro plastica forza grande,
+a0041,Dinamometro grande marrone 10N,Armadio 5,11,Meccanica,dinamometro plastica forza grande,Dinamometro grande marrone 10N Armadio 5 dinamometro plastica forza grande,
+a0042,Scala doppia,Armadio 5,10,Meccanica,righello curva ,Scala doppia Armadio 5 righello curva ,https://www.dl.dropboxusercontent.com/scl/fi/tfqg8fmardf98n80mcbgm/scalaDoppia.jpeg?rlkey=h29j7wn2ezpbk58b3ao4jyd0m&dl=0
+a0043,Ponte per puleggia,Armadio 5,20,Meccanica,carrucole leve macchina semplice ,Ponte per puleggia Armadio 5 carrucole leve macchina semplice ,https://www.dl.dropboxusercontent.com/scl/fi/xkcdzgatkn49eiyv3ceg2/pontePuleggia.jpeg?rlkey=ejcnn426s8uzvw97oa1lig2w1&dl=0
 a0044,Alimentatore con cavo,Armadio 7,10,Elettricità,generatore voltaggio ,Alimentatore con cavo Armadio 7 generatore voltaggio ,https://www.dl.dropboxusercontent.com/scl/fi/ao5sth834egapxl03cq6q/alimentatore.jpeg?rlkey=jdv081cpw2ayr8dxh24rlaxsk&dl=0
 a0045,Fornelletto,Armadio 3,10,Termodinamica,scaldini scaldino forno piastra calore scaldare bollitore,Fornelletto Armadio 3 scaldini scaldino forno piastra calore scaldare bollitore,https://www.dl.dropboxusercontent.com/scl/fi/27l9q3hasuurb656hh7hs/fornelletto.jpeg?rlkey=jn81udp1uh9g7do6ne9njnxyb&dl=0
 a0046,Presina silicone,Armadio 3,10,Termodinamica,manopole plastica arancione calore calorimetro presina,Presina silicone Armadio 3 manopole plastica arancione calore calorimetro presina,https://www.dl.dropboxusercontent.com/scl/fi/nvahyk04nqz8ln0igy2z3/presina.jpeg?rlkey=9i5fip57idb9co3z9kq923tqx&dl=0
 a0047,Kit calorimetro ,Armadio 3,10,Termodinamica,termometro calore specifico,Kit calorimetro  Armadio 3 termometro calore specifico,https://www.dl.dropboxusercontent.com/scl/fi/l1ss7tg1yhlrvvhd8wrk8/calorimetro.jpeg?rlkey=1n8nujc7jkgbcldg73baxyen0&dl=0
 a0048,Massa cilindro calorimetria (5x4 materiali),Armadio 3,20,Termodinamica,calorimetro calore specifico alluminio bronzo ottone pvc,Massa cilindro calorimetria (5x4 materiali) Armadio 3 calorimetro calore specifico alluminio bronzo ottone pvc,https://www.dl.dropboxusercontent.com/scl/fi/m0gptvl3h1lxwotpt1mpd/masseCilindroCalorimetria.jpeg?rlkey=dk53s6okrj6qp0i1m429x593c&dl=0
 a0049,Beuta piccola vetro 50 mL,Armadio 2,9,Termodinamica,matraccio dilatazione liquidi,Beuta piccola vetro 50 mL Armadio 2 matraccio dilatazione liquidi,https://www.dl.dropboxusercontent.com/scl/fi/tis5ws2aaqsj4bjpkcehs/beuta50.jpeg?rlkey=55wcd49yrls04chakco7m95u7&dl=0
-a0050,Piastra contenitore trasparente,Armadio 2,9,Mecccanica,petri grandi plastica contenitore,Piastra contenitore trasparente Armadio 2 petri grandi plastica contenitore,https://www.dl.dropboxusercontent.com/scl/fi/36bv34856mz73u8g6n7ry/piastrapetri.jpeg?rlkey=64acjc5l5k9hu3ykuefw90bb9&dl=0
-a0051,Becher 150 mL,Armadio 2,1,Mecccanica,becker ,Becher 150 mL Armadio 2 becker ,
+a0050,Piastra contenitore trasparente,Armadio 2,9,Meccanica,petri grandi plastica contenitore,Piastra contenitore trasparente Armadio 2 petri grandi plastica contenitore,https://www.dl.dropboxusercontent.com/scl/fi/36bv34856mz73u8g6n7ry/piastrapetri.jpeg?rlkey=64acjc5l5k9hu3ykuefw90bb9&dl=0
+a0051,Becher 150 mL,Armadio 2,1,Meccanica,becker ,Becher 150 mL Armadio 2 becker ,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,  ,
+,,,,,,  ,
