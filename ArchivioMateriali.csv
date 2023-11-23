@@ -1,5 +1,5 @@
 ID,Nome,Posizione,Quantità,Argomento,Keywords,ParoleChiave,URLImmagine
-a0001,Metro a Nastro,Armadio 1,22,Meccanica,strumento misura strumenti,Metro a Nastro Armadio 1 strumento misura strumenti,https://www.dl.dropboxusercontent.com/scl/fi/qfhpt9k0sn1a9kxbvag72/metroNastro.jpeg?rlkey=ywm2vpv40hembek1m35t849jw&dl=0
+a0001,Metro a Nastro,Armadio 5,22,Meccanica,strumento misura strumenti,Metro a Nastro Armadio 5 strumento misura strumenti,https://www.dl.dropboxusercontent.com/scl/fi/qfhpt9k0sn1a9kxbvag72/metroNastro.jpeg?rlkey=ywm2vpv40hembek1m35t849jw&dl=0
 a0002,Becher 250 mL,Armadio 5,11,Meccanica,becker ,Becher 250 mL Armadio 5 becker ,https://www.dl.dropboxusercontent.com/scl/fi/6zlkwu7eno50lja5bempt/becher250.jpeg?rlkey=rezrlnnd2rjh5z0lbkrjvav1a&dl=0
 a0003,Basi,Armadio 1,20,Meccanica,basette,Basi Armadio 1 basette,https://www.dl.dropboxusercontent.com/scl/fi/cd2bwe3r6g58egskz7lby/basi.jpeg?rlkey=zi72qs9rojg8k4smmh8ov8woe&dl=0
 a0004,Asta lunga,Armadio 1,25,Meccanica,aste sbarra ,Asta lunga Armadio 1 aste sbarra ,https://www.dl.dropboxusercontent.com/scl/fi/gx6nvorpws5j0d0kbaayl/astaLunga.jpeg?rlkey=jubm3uwrvdpnov6v4g4w92ff8&dl=0
@@ -161,7 +161,7 @@ a0159,Morsetto cambio direzionale,Armadio 1,12,Meccanica,morsetti sostegno carru
 a0160,Contenitori riempibili gialli,Armadio 5,30,Meccanica,ovetto kinder secondo principio dinamica tracker,Contenitori riempibili gialli Armadio 5 ovetto kinder secondo principio dinamica tracker,https://www.dl.dropboxusercontent.com/scl/fi/nk040cjlug41kr5fdh178/Contenitori-riempibili-gialli.jpeg?rlkey=ls5e51j0ty5r4kw68goo8k9eg&dl=0
 a0161,Pallina,Armadio 5,7,Meccanica,caduta libera parabolico moto,,https://www.dl.dropboxusercontent.com/scl/fi/613jlpr10ya66ywiek9nv/palline.jpeg?rlkey=3iyybfismrotttz9m7awgk5sk&dl=0
 a0162,Piano girevole,Armadio 5,1,Meccanica,circolare uniforme moto,Piano girevole Armadio 5 circolare uniforme moto,https://www.dl.dropboxusercontent.com/scl/fi/xai18mzc2fbvf5mtzdtdg/disco-rotante.jpeg?rlkey=gmp97ts4muj0zkbpf31y7cy62&dl=0
-a0163,Bollini adesivi,Armadio 5,100,Meccanica,tracker,Bollini adesivi Armadio 5 tracker,https://www.dl.dropboxusercontent.com/scl/fi/0p49bjkygco8t5hqrqz61/bollini.jpeg?rlkey=yqsybaonmjivrf1dre2c09qms&dl=0
+a0163,Bollini adesivi,Armadio 5,100,Meccanica,tracker bollino,Bollini adesivi Armadio 5 tracker bollino,https://www.dl.dropboxusercontent.com/scl/fi/0p49bjkygco8t5hqrqz61/bollini.jpeg?rlkey=yqsybaonmjivrf1dre2c09qms&dl=0
 a0164,Termocoppia,Armadio 7,14,Elettricità,multimetro,Termocoppia Armadio 7 multimetro,https://www.dl.dropboxusercontent.com/scl/fi/911gao3mo27qg159kjkqz/termocoppia.jpeg?rlkey=uonl2g2bspkq5v7g03vmbr0o6&dl=0
 a0165,Bolla,Armadio 5,4,Meccanica,livella,Bolla Armadio 5 livella,https://www.dl.dropboxusercontent.com/scl/fi/bvonpdczaeeqpogb9a43l/bolla.jpeg?rlkey=jyqaoctc2d6ny2wozj9iqs2we&dl=0
 a0166,Piano forato,Armadio 5,4,Meccanica,parallelogramma,Piano forato Armadio 5 parallelogramma,https://www.dl.dropboxusercontent.com/scl/fi/ccbj77q7f9f2ezuccq89n/pianoForato.jpeg?rlkey=mycv2wbp5nomzg9narqpi0q63&dl=0
@@ -176,10 +176,11 @@ a0174,Micrometro,Armadio 5,1,Meccanica,calibro,Micrometro Armadio 5 calibro,http
 a0175,Morsetto a C,Armadio 1,8,Meccanica,morsetti sostegno blocco fissaggio,Morsetto a C Armadio 1 morsetti sostegno blocco fissaggio,
 a0176,Scotch di carta,Armadio 4,3,Altro,nastro adesivo carto scoch schotc,Scotch di carta Armadio 4 nastro adesivo carto scoch schotc,https://www.dl.dropboxusercontent.com/scl/fi/zeavwr9ybr743dqfmx04e/scotchCarta.jpeg?rlkey=5p6e7luoea0dit0857m1t1vfl&dl=0
 a0177,Foglio A4,Armadio 4,100,Altro,carta fogli,Foglio A4 Armadio 4 carta fogli,https://www.dl.dropboxusercontent.com/scl/fi/cuc2b3b2old8kyungf60l/fogliA4.jpeg?rlkey=57mgl772w6bzeeqsevts5h3ug&dl=0
-a0178,Graffette,Armadio 5,20,Altro,ganci graffetta,Graffette Armadio 5 ganci graffetta,https://www.dl.dropboxusercontent.com/scl/fi/ghoibfahyds6k9c13tffj/graffetta.jpeg?rlkey=e5wdhgd1zozarth2tluhqbj2u&dl=0
+a0178,Graffetta,Armadio 5,20,Altro,ganci graffetta,Graffetta Armadio 5 ganci graffetta,https://www.dl.dropboxusercontent.com/scl/fi/ghoibfahyds6k9c13tffj/graffetta.jpeg?rlkey=e5wdhgd1zozarth2tluhqbj2u&dl=0
 a0179,Forbice,Armadio 4,10,Altro,forbici,Forbice Armadio 4 forbici,https://www.dl.dropboxusercontent.com/scl/fi/emgqsqp5gh5pns2brlc4y/forbici.jpeg?rlkey=ek4vdporkoqbeamaaq87aurtn&dl=0
 a0180,Foglio A3,Armadio 4,100,Altro,carta fogli,Foglio A3 Armadio 4 carta fogli,
 a0181,Foglio Carta Millimetrata,Armadio 4,50,Altro,carta fogli grafico grafici,Foglio Carta Millimetrata Armadio 4 carta fogli grafico grafici,https://www.dl.dropboxusercontent.com/scl/fi/4a1oyxuvb41tkjkjsqtgi/cartaMillimetrata.jpeg?rlkey=cuq0ftzx8zufiqvcpe5ospdf0&dl=0
 a0182,Kit volume costante,Armadio 4,1,Meccanica,densità massa,Kit volume costante Armadio 4 densità massa,https://www.dl.dropboxusercontent.com/scl/fi/twkz4qd9jwdw33kmtttzd/kitVolumeCostante.jpeg?rlkey=h85zu6a3rxmkmxxnyuhvlvqie&dl=0
 a0183,Kit massa costante,Armadio 4,1,Meccaninca,densità volume,Kit massa costante Armadio 4 densità volume,
 a0184,Cronometro smartphone,Personale,100,Altro,tempo intervallo giro giri tempi cronometri cellulare,Cronometro smartphone Personale tempo intervallo giro giri tempi cronometri cellulare,https://www.dl.dropboxusercontent.com/scl/fi/460ssr9vcq1nnead2i74a/crono_smartphone.jpeg?rlkey=odzdrf5trp5zpm49xxs9aj5l4&dl=0
+a0185,Dadi piccoli,Armadio 1,30,Meccanica,bulloni masse,Dadi piccoli Armadio 1 bulloni masse,https://www.dl.dropboxusercontent.com/scl/fi/c4co53jsr3i8d80s2dqh5/dadi.png?rlkey=7pi6qg9lw4fhfty3vekyo5zc6&dl=0
