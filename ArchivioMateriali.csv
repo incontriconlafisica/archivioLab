@@ -167,9 +167,9 @@ a0165,Bolla,Armadio 5,4,Meccanica,livella,Bolla Armadio 5 livella,https://www.dl
 a0166,Piano forato,Armadio 5,4,Meccanica,parallelogramma,Piano forato Armadio 5 parallelogramma,https://www.dl.dropboxusercontent.com/scl/fi/ccbj77q7f9f2ezuccq89n/pianoForato.jpeg?rlkey=mycv2wbp5nomzg9narqpi0q63&dl=0
 a0167,Lampadina 2.5V,Armadio 7,1,Elettricità,luce,Lampadina 2.5V Armadio 7 luce,https://www.dl.dropboxusercontent.com/scl/fi/8mdvel2ad9daz4zmga1h0/lampadina.jpeg?rlkey=ajzmr4m9bkqkntnfkl170j640&dl=0
 a0168,Lampadina 12V,Armadio 7,28,Elettricità,luce,Lampadina 12V Armadio 7 luce,https://www.dl.dropboxusercontent.com/scl/fi/8mdvel2ad9daz4zmga1h0/lampadina.jpeg?rlkey=ajzmr4m9bkqkntnfkl170j640&dl=0
-a0169,"Lampadina 4,8V",Armadio 7,6,Elettricità,luce,"Lampadina 4,8V Armadio 7 luce",https://www.dl.dropboxusercontent.com/scl/fi/8mdvel2ad9daz4zmga1h0/lampadina.jpeg?rlkey=ajzmr4m9bkqkntnfkl170j640&dl=0
-a0170,Lampadina 6V,Armadio 7,6,Elettricità,luce,Lampadina 6V Armadio 7 luce,https://www.dl.dropboxusercontent.com/scl/fi/8mdvel2ad9daz4zmga1h0/lampadina.jpeg?rlkey=ajzmr4m9bkqkntnfkl170j640&dl=0
-a0171,Lampadina 24V,Armadio 7,24,Elettricità,luce,Lampadina 24V Armadio 7 luce,https://www.dl.dropboxusercontent.com/scl/fi/8mdvel2ad9daz4zmga1h0/lampadina.jpeg?rlkey=ajzmr4m9bkqkntnfkl170j640&dl=0
+a0169,"Lampadina 4,8V",Armadio 7,9,Elettricità,luce,"Lampadina 4,8V Armadio 7 luce",https://www.dl.dropboxusercontent.com/scl/fi/8mdvel2ad9daz4zmga1h0/lampadina.jpeg?rlkey=ajzmr4m9bkqkntnfkl170j640&dl=0
+a0170,Lampadina 6V,Armadio 7,27,Elettricità,luce,Lampadina 6V Armadio 7 luce,https://www.dl.dropboxusercontent.com/scl/fi/8mdvel2ad9daz4zmga1h0/lampadina.jpeg?rlkey=ajzmr4m9bkqkntnfkl170j640&dl=0
+a0171,Lampadina 24V,Armadio 7,25,Elettricità,luce,Lampadina 24V Armadio 7 luce,https://www.dl.dropboxusercontent.com/scl/fi/8mdvel2ad9daz4zmga1h0/lampadina.jpeg?rlkey=ajzmr4m9bkqkntnfkl170j640&dl=0
 a0172,Metro di carta,Armadio 5,100,Meccanica,ikea leroy merlin,Metro di carta Armadio 5 ikea leroy merlin,https://www.dl.dropboxusercontent.com/scl/fi/laglc77vuryjo5uh0juhh/metrocarta.jpeg?rlkey=p2k280griejao5ctw8tski3uh&dl=0
 a0173,Cilindretto densità,Armadio 1,49,Meccanica,cilindro,Cilindretto densità Armadio 1 cilindro,https://www.dl.dropboxusercontent.com/scl/fi/owj9rewrvb5n1hlkbdybj/cilinndrettiDensit.jpeg?rlkey=7y0t8c9zruczkzgf3jvhgw3z3&dl=0
 a0174,Micrometro,Armadio 5,1,Meccanica,calibro,Micrometro Armadio 5 calibro,https://www.dl.dropboxusercontent.com/scl/fi/cc98el3qxsizaxu6i28he/micrometro.jpeg?rlkey=mj2je65ti0lzraye49nvtkn0l&dl=0
@@ -195,7 +195,7 @@ a0193,Tavola di legno,,1,,,stecca,
 a0194,Riga,Armadio 5,11,,stecca,Riga Armadio 5 stecca,
 a0195,Nastro biadesivo,,5,,scotch,Nastro biadesivo  scotch,
 a0196,Nastro adesivo trasparente,,32,,scotch,Nastro adesivo trasparente  scotch,https://www.dl.dropboxusercontent.com/scl/fi/8ed0qc0m07d9fevefarkk/scotch.png?rlkey=k48ubuluzaf4e65etmaafr0lk&dl=0
-a0197,Piastrella,,3,,mattonella ceramica,Piastrella  mattonella ceramica,
+a0197,Piastrella,,3,,mattonella ceramica,Piastrella  mattonella ceramica,https://www.dl.dropboxusercontent.com/scl/fi/rtwyukjc8f1mha35gp3b5/mattonella.png?rlkey=zzcj0z9fffpo4bcn5xgnziq0i&dl=0
 a0198,Cacciavite a stella,,9,,,Cacciavite a stella  ,
 a0199,Cacciavite piatto,,9,,dritto,Cacciavite piatto  dritto,
 a0200,Biglia,Armadio 5,9,,sfera pallina,Biglia Armadio 5 sfera pallina,
@@ -217,10 +217,12 @@ a0215,Alimentatore USB,,12,,caricabatterie presa spina trasformatore,Alimentator
 a0216,Alimentatore 12V,,2,,trasformatore,Alimentatore 12V  trasformatore,
 a0217,Trancino,,3,,spelacavi spelatore,Trancino  spelacavi spelatore,
 a0218,Fascetta di plastica,,21,,,Fascetta di plastica  ,
-a0219,Apparato per isoterma,,9,,siringa legge di boyle,Apparato per isoterma  siringa legge di boyle,
+a0219,Siringa boyle,,9,,siringa legge di boyle,Siringa boyle  siringa legge di boyle,https://www.dl.dropboxusercontent.com/scl/fi/n41lge3mricuqr9aryl5v/siringa.png?rlkey=sjhm3iov0l0dtqzhs3uqz8qgg&dl=0
 a0220,Smartphone con App Phyphox,Personale,,Altro,strumenti app fifox fyfox phyfox phyfox,Smartphone con App Phyphox Personale strumenti app fifox fyfox phyfox phyfox,https://www.dl.dropboxusercontent.com/scl/fi/1nekmbys2axqk1yrjmjf5/phyphox.jpeg?rlkey=uedohcmyp39xb8qzwxpw2524c&dl=0
 a0221,Piano cartone,Armadio 5,10,Altro,supporto piano carta,Piano cartone Armadio 5 supporto piano carta,https://www.dl.dropboxusercontent.com/scl/fi/2ejmrnvuib4lv31g1wf2u/cartone.png?rlkey=skai65aqeeldyjonvb7ewsl5n&dl=0
 a0222,Bottiglia 500 ml,Armadio 3,6,Altro,bottiglietta,Bottiglia 500 ml Armadio 3 bottiglietta,https://www.dl.dropboxusercontent.com/scl/fi/gritfj3mawekarn7vqfy1/bottiglia500.png?rlkey=4vdvt6lj316j7yzznk87ndccs&dl=0
 a0223,Scatola trasparente grande,Armadio 3,5,Altro,plastica,Scatola trasparente grande Armadio 3 plastica,https://www.dl.dropboxusercontent.com/scl/fi/fiiccyp992vxjr5g0qu4a/scatola.png?rlkey=rva6xdzb8tz14vuecf52xe5al&dl=0
 a0224,Custodia water proof,Armadio 3,5,Fluidostatica,smartphone isolato asciutto water proof impermeabile,Custodia water proof Armadio 3 smartphone isolato asciutto water proof impermeabile,https://www.dl.dropboxusercontent.com/scl/fi/ig23ly60t6qjd9bbeecb4/custodia.jpeg?rlkey=7ejtss6o6yhuvxssqlgoz1orj&dl=0
 a0225,Pantografo elevatore,Armadio 1,5,Meccanica,"piano sollevamento, base, alzana, sollevare","Pantografo elevatore Armadio 1 piano sollevamento, base, alzana, sollevare",https://www.dl.dropboxusercontent.com/scl/fi/vfptqclm57mdz3it22sk1/pianoelevatore.png?rlkey=qknzq0h5pdz62qqr63zr1p8qp&dl=0
+a0226,Suppoto forato,Armadio 3,6,Termodinamica,boyle base siringa ,Suppoto forato Armadio 3 boyle base siringa ,https://www.dl.dropboxusercontent.com/scl/fi/n41lge3mricuqr9aryl5v/siringa.png?rlkey=sjhm3iov0l0dtqzhs3uqz8qgg&dl=0
+a0227,Tappo erlenmeyer,Armadio 3,6,Termodinamica,tappo rosso siringa boyle,Tappo erlenmeyer Armadio 3 tappo rosso siringa boyle,https://www.dl.dropboxusercontent.com/scl/fi/zzpl3wxnlwbmoq903oqll/tappo-E-M.png?rlkey=f26p9iq8d309y1sz9w68wupi5&dl=0
